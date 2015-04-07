@@ -17,7 +17,7 @@
         Team AUTOMATONS: Nitish Mallick
     </author>
     <gap:splash src="splash.png" />
-    <icon src="logo.png" />
+    <icon src="icon.png" />
 			<preference name="Load-url-timeout" value="15000" />
 </widget>
 
